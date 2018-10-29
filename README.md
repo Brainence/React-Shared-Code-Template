@@ -1,7 +1,7 @@
 # React-Shared-Code-Template
 Simple template to start project with shared code between react and react-native apps in one solution
 
-![GitHub Logo](/assets/header_sharing.png)
+![React Shared Code Template](/assets/images/header_sharing.png)
 
 ## How to use
 
@@ -22,6 +22,7 @@ OR
 $ yarn
 ```
 
+
 To start WEB solution:
 ```bash
 $ npm run web
@@ -30,6 +31,7 @@ OR
 ```bash
 $ yarn web
 ```
+
 
 To start mobile expo:
 ```bash
@@ -40,6 +42,7 @@ OR
 $ yarn mobile
 ```
 
+
 To start android:
 ```bash
 $ npm run android
@@ -48,6 +51,7 @@ OR
 ```bash
 $ yarn android
 ```
+
 
 To start ios:
 ```bash
